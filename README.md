@@ -11,7 +11,7 @@ Gardenia is an Arduino-based automated planting robot designed to assist in gree
 
 ---
 ## 📸 Video Presentation
-[Watch the presentation](https://youtu.be/GQUERBwpz1o?si=3xV0WJ9uOP_-tubB)
+[Watch the video presentation](https://youtu.be/GQUERBwpz1o?si=3xV0WJ9uOP_-tubB)
 
 
 ---
